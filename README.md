@@ -7,7 +7,7 @@
 
 
 
-I'm a Data Analyst based in Berlin, Germany, offering freelance Data Analytics services over at my website, [craigdoesdata-de](https://www.craigdoesdata.de).
+I'm a Data Analyst based in Berlin, Germany, offering freelance Data Analytics services over at my website, [craigdoesdata.de](https://www.craigdoesdata.de).
 
 My GitHub profile is a place where I can showcase some [personal projects](https://www.craigdoesdata.de/projects.html), share code for the [tutorials and other publications](https://www.craigdoesdata.de/blog.html) I've written, and generally do GitHub type things.
 
