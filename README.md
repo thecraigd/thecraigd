@@ -5,12 +5,6 @@
 
 # [Hi! I'm Craig 👋](https://www.craigdoesdata.de)
 
-
-[![Profile Pic][erd]][link1]
-
-[erd]: https://avatars.githubusercontent.com/u/60340667?s=460&u=89984b9b9e0fe5cbbbf6e3d7afbd7cb93c7e442d&v=4
-[link1]: https://www.craigdoesdata.de
-
 -----------------
 
 I'm a Data Analyst based in Berlin, Germany, offering freelance Data Analytics services over at my website, [craigdoesdata-de](https://www.craigdoesdata.de).
