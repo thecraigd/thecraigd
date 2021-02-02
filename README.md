@@ -5,7 +5,7 @@
 
 # [Hi! I'm Craig 👋](https://www.craigdoesdata.de)
 
------------------
+
 
 I'm a Data Analyst based in Berlin, Germany, offering freelance Data Analytics services over at my website, [craigdoesdata-de](https://www.craigdoesdata.de).
 
