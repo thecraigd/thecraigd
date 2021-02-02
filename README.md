@@ -3,7 +3,7 @@
 [logo]: https://www.craigdoesdata.de/img/logo/logo.png
 [link]: https://www.craigdoesdata.de/
 
-# [Hi! I'm Craig](https://www.craigdoesdata.de)
+# [Hi! I'm Craig 👋](https://www.craigdoesdata.de)
 
 
 [![Profile Pic][erd]][link1]
@@ -19,7 +19,7 @@ My GitHub profile is a place where I can showcase some [personal projects](https
 
 Sadly, lately I've been busy working for clients where the work isn't public, so I haven't been updating things here as often as I'd like. But I still love GitHub!
 
-Don't hesitate to drop me a line if you have any questions, a fun idea for a collaboration, or want to discuss working together on something!
+Don't hesitate to [drop me a line](https://www.craigdoesdata.de/contact.html) if you have any questions, a fun idea for a collaboration, or want to discuss working together on something!
 
 <!--
 **thecraigd/thecraigd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
