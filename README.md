@@ -29,14 +29,17 @@ My GitHub profile is a place where I can showcase some [personal projects](https
 I've also been working on a series of [guides and resources](https://www.craigdoesdata.com/resources.html) on all aspects of Data Analytics, and I'd appreciate any feedback you might have on those.
 
 **Recent Publications**:
-- [Breaking Down Data Silos: 7 Strategies for Seamless Data Integration]([https://towardsdatascience.com/an-introduction-to-relational-databases-and-mysql-1acd5e0bdebc](https://www.craigdoesdata.com/resources/breaking_down_data_silos)): A practical introduction to applying machine learning techniques in product analytics.
+- [Breaking Down Data Silos: 7 Strategies for Seamless Data Integration](https://www.craigdoesdata.com/resources/breaking_down_data_silos): A practical introduction to applying machine learning techniques in product analytics.
 - [Machine Learning in Product Analytics: A Practical Beginner’s Guide](https://www.craigdoesdata.com/resources/machine-learning-in-product-analytics-a-practical-guide-for-beginners): A practical introduction to applying machine learning techniques in product analytics.
 - [Customer Segmentation with Clustering: A Guide to Using k-Means and Beyond](https://www.craigdoesdata.com/resources/customer-segmentation-with-clustering-a-guide-to-using-k-means-and-beyond): Learn how to identify meaningful customer segments using advanced clustering techniques.
-  
-  **Technologies & Tools**:
+
+
+
+
+Don't hesitate to [drop me a line](https://www.craigdoesdata.com/contact.html) if you have any questions, a fun idea for a collaboration, or want to discuss working together on something.
+
+**Technologies & Tools**:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-
-Don't hesitate to [drop me a line](https://www.craigdoesdata.com/contact.html) if you have any questions, a fun idea for a collaboration, or want to discuss working together on something.
