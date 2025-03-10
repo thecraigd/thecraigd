@@ -39,8 +39,3 @@ I've also been working on a series of [guides and resources](https://www.craigdo
 
 Don't hesitate to [drop me a line](https://www.craigdoesdata.com/contact.html) if you have any questions, a fun idea for a collaboration, or want to discuss working together on something.
 
-**Technologies & Tools**:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
