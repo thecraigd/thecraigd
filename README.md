@@ -41,6 +41,6 @@ Don't hesitate to [drop me a line](https://www.craigdoesdata.com/contact.html) i
 
 **Let's Connect**:
 - [Website](https://www.craigdoesdata.com)
-- [LinkedIn](https://www.linkedin.com/in/craig-dickson)
+- [LinkedIn](https://www.linkedin.com/in/dicksoncraig)
 - [Twitter](https://twitter.com/craigdoesdata)
 - [Medium](https://medium.com/@craigdoesdata)
