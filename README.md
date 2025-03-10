@@ -32,6 +32,7 @@ I've also been working on a series of [guides and resources](https://www.craigdo
 - [Breaking Down Data Silos: 7 Strategies for Seamless Data Integration](https://www.craigdoesdata.com/resources/breaking_down_data_silos): A practical introduction to applying machine learning techniques in product analytics.
 - [Machine Learning in Product Analytics: A Practical Beginner’s Guide](https://www.craigdoesdata.com/resources/machine-learning-in-product-analytics-a-practical-guide-for-beginners): A practical introduction to applying machine learning techniques in product analytics.
 - [Customer Segmentation with Clustering: A Guide to Using k-Means and Beyond](https://www.craigdoesdata.com/resources/customer-segmentation-with-clustering-a-guide-to-using-k-means-and-beyond): Learn how to identify meaningful customer segments using advanced clustering techniques.
+- [Many more here...](https://www.craigdoesdata.com/resources.html)
 
 
 
