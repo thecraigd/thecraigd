@@ -12,8 +12,9 @@ I'm a Senior Data Analyst at [Klarna](https://www.klarna.com/), working in Berli
 
 My GitHub profile is a place where I can showcase some [personal projects](https://www.craigdoesdata.com/projects.html), share code for the [tutorials and other publications](https://www.craigdoesdata.com/blog.html) I've written, and generally do GitHub type things.
 
-**Featured Project**: [California Housing Prices Web Application](https://www.craigdoesdata.com/projects.html)
-- Developed a predictive model using Streamlit to estimate housing prices based on the California Housing Price dataset.
+**Featured Projects**: 
+- [AI-powered RPG Game - The Aurora Nexus](https://github.com/thecraigd/rpg-streamlit)
+- an immersive text-based role-playing game powered by cutting-edge AI and brought to life with Streamlit.
 
 Since 2021 I've been working full-time as a Senior Data Analyst at global fintech firm [Klarna](https://www.klarna.com/), so I haven't been updating things here as often as I'd like, though I still try to put something up now and again. I've been working on a series of [guides and resources](https://www.craigdoesdata.com/resources.html) on all aspects of Data Analytics, and I'd appreciate any feedback you might have on those.
 
