@@ -3,7 +3,10 @@
 [logo]: https://www.craigdoesdata.com/img/logo/logo.png
 [link]: https://www.craigdoesdata.com/
 
-# [Hi! I'm Craig 👋](https://www.craigdoesdata.com)
+<div align="center">
+  <h1>Hi there, I'm Craig Dickson 👋</h1>
+  <p><em>Data Analyst | Data Engineer | Tech Enthusiast</em></p>
+</div>
 
 
 
