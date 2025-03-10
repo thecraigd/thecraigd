@@ -4,7 +4,7 @@
 [link]: https://www.craigdoesdata.com/
 
 <div align="center">
-  <h1>Hi there, I'm Craig Dickson 👋</h1>
+  <h1><a href="https://www.craigdoesdata.com" style="text-decoration: none; color: inherit;">Hi there, I'm Craig Dickson 👋</a></h1>
   <p><em>Data Analyst | Data Engineer | Tech Enthusiast</em></p>
 </div>
 
@@ -39,3 +39,8 @@ I've also been working on a series of [guides and resources](https://www.craigdo
 
 Don't hesitate to [drop me a line](https://www.craigdoesdata.com/contact.html) if you have any questions, a fun idea for a collaboration, or want to discuss working together on something.
 
+**Let's Connect**:
+- [Website](https://www.craigdoesdata.com)
+- [LinkedIn](https://www.linkedin.com/in/craig-dickson)
+- [Twitter](https://twitter.com/craigdoesdata)
+- [Medium](https://medium.com/@craigdoesdata)
