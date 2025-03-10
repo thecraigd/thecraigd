@@ -22,7 +22,7 @@ My GitHub profile is a place where I can showcase some [personal projects](https
 - [Guitar Buddy](https://github.com/thecraigd/guitarbuddy)
   - [GuitarBuddy](https://guitarbuddy.netlify.app) is a mobile-optimized progressive web application designed to help guitarists and other musicians with essential tools for practice, learning, and performance.
 
-- Mega Google Translate
+- [Mega Google Translate](https://github.com/thecraigd/MEGA_GOOGLE_TRANSLATE)
   - Python scripts which use Google Gemini 2.0 Flash Thinking to automate translation of web pages into multiple languages. Click on soe links in the next section and you might see why I put this together :)
 
 
