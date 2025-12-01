@@ -70,7 +70,7 @@ A versatile chat platform supporting hot-swappable providers including Google Ge
 ---
 
 ### 📚 Data Analytics Resources
-I write extensively about data strategy and machine learning concepts. Here are a few recent guides:
+I have written extensively about data strategy and machine learning concepts. Here are a few recent guides:
 
 - **[Breaking Down Data Silos](https://www.craigdoesdata.com/resources/breaking_down_data_silos):** Strategies for seamless data integration in enterprise environments.
 - **[Machine Learning in Product Analytics](https://www.craigdoesdata.com/resources/machine-learning-in-product-analytics-a-practical-guide-for-beginners):** A practical introduction to applying ML techniques to user behavior data.
