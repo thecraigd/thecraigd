@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/dicksoncraig"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
   <a href="https://twitter.com/craigdoesdata"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter"></a>
   <a href="https://huggingface.co/thecraigd"><img src="https://img.shields.io/badge/HuggingFace-Models%20%26%20Datasets-FFD21E?style=flat&logo=huggingface&logoColor=black"></a>
-  <a href="https://arxiv.org/search/cs?searchtype=author&query=Dickson,+C"><img src="https://img.shields.io/badge/arXiv-Publications-B31B1B?style=flat&logo=arxiv&logoColor=white"></a>
+  <a href="https://arxiv.org/search/cs?query=Dickson,+Craig&searchtype=author&abstracts=show&order=-announced_date_first&size=50"><img src="https://img.shields.io/badge/arXiv-Publications-B31B1B?style=flat&logo=arxiv&logoColor=white"></a>
 </div>
 
 <br />
