@@ -51,6 +51,18 @@ I conducted an independent study replicating and extending findings on "emergent
 
 ### 🚀 Featured Projects
 
+**[The Guardrail - AI Safety Paper Aggregator](https://github.com/thecraigd/ai-safety-papers)**  
+*JavaScript, LLM Integration*  
+An AI-powered aggregator that curates and surfaces the latest AI safety research papers. Uses LLM technology to help researchers and practitioners stay current with developments in the field.
+
+**[Lumina - Article to Audio Converter](https://github.com/thecraigd/lumina)** | [Live Demo](https://reader-lumina.netlify.app/)  
+*React, TypeScript, Google Gemini TTS API*  
+A web application that transforms articles and text into natural-sounding audio using Google Gemini's text-to-speech capabilities. Features voice selection, playback speed control, and paragraph-level highlighting with click-to-jump navigation.
+
+**[Personal Research Librarian](https://github.com/thecraigd/personal-research-librarian)**  
+*Python, LanceDB, sentence-transformers, Google Gemini*  
+A CLI tool for building a private RAG (Retrieval-Augmented Generation) database from your personal documents. Ingest PDFs, notes, and documents to create a local vector index, then query your knowledge base using natural language with grounded answers and citations.
+
 **[Alexa-to-Gemini Bridge](https://github.com/thecraigd/alexa-gemini-bridge)**  
 *Python, Flask, Google Gemini API*  
 A middleware application that upgrades legacy Amazon Alexa hardware by routing queries through Google's Gemini 2.0 Flash Thinking model. This enables complex reasoning and natural conversation on older smart speakers.
