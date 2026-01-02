@@ -45,15 +45,23 @@ I conducted an independent study replicating and extending findings on "emergent
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql) ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![dbt](https://img.shields.io/badge/-dbt-333?style=flat&logo=dbt) ![Airflow](https://img.shields.io/badge/-Airflow-333?style=flat&logo=apache-airflow) ![Tableau](https://img.shields.io/badge/-Tableau-333?style=flat&logo=tableau) ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
 
 **AI & Machine Learning**  
-![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-333?style=flat&logo=huggingface) ![vLLM](https://img.shields.io/badge/-vLLM-333?style=flat) ![Google Colab](https://img.shields.io/badge/-Colab-333?style=flat&logo=googlecolab) ![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-333?style=flat&logo=huggingface) ![vLLM](https://img.shields.io/badge/-vLLM-333?style=flat) ![Google Gemini](https://img.shields.io/badge/-Gemini-333?style=flat&logo=google) ![LanceDB](https://img.shields.io/badge/-LanceDB-333?style=flat) ![sentence--transformers](https://img.shields.io/badge/-sentence--transformers-333?style=flat) ![Google Colab](https://img.shields.io/badge/-Colab-333?style=flat&logo=googlecolab) ![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
+
+---
+
+### 🎯 Current Focus
+
+I'm continuing to expand my work on **emergent misalignment**, with plans to use Sparse Autoencoders (like Google's Gemma Scope 2) to empirically test hypotheses from my paper *The Devil in the Details*. I'm very interested in collaborating on research with anyone who shares a commitment to building AI safely and deploying it in ways that help people.
+
+I'm also exploring how modern AI tools can enhance analytics performance and productivity in professional workflows. This is something I am working on intensively in my professional work right now.
 
 ---
 
 ### 🚀 Featured Projects
 
-**[The Guardrail - AI Safety Paper Aggregator](https://github.com/thecraigd/ai-safety-papers)**  
+**[The Guardrail - AI Safety Paper Aggregator](https://github.com/thecraigd/ai-safety-papers)** | [Live Site](https://thecraigd.github.io/ai-safety-papers/)  
 *JavaScript, LLM Integration*  
-An AI-powered aggregator that curates and surfaces the latest AI safety research papers. Uses LLM technology to help researchers and practitioners stay current with developments in the field.
+A daily-updated aggregator of AI safety research from arXiv. Features AI-powered filtering and categorization across 10 safety domains including alignment, interpretability, RLHF, robustness, and agent safety. Currently tracking 1,300+ papers with relevance scoring and editor's picks.
 
 **[Lumina - Article to Audio Converter](https://github.com/thecraigd/lumina)** | [Live Demo](https://reader-lumina.netlify.app/)  
 *React, TypeScript, Google Gemini TTS API*  
@@ -67,17 +75,9 @@ A CLI tool for building a private RAG (Retrieval-Augmented Generation) database 
 *Python, Flask, Google Gemini API*  
 A middleware application that upgrades legacy Amazon Alexa hardware by routing queries through Google's Gemini 2.0 Flash Thinking model. This enables complex reasoning and natural conversation on older smart speakers.
 
-**[AI-powered RPG Game - The Aurora Nexus](https://github.com/thecraigd/rpg-streamlit)**  
-*Streamlit, OpenAI API*  
-An immersive text-based role-playing game powered by LLMs. It features dynamic storytelling where the AI acts as the Dungeon Master, adapting the narrative in real-time based on user choices.
-
 **[Universal AI Chatbot Interface](https://github.com/thecraigd/streamlit-chatbot)**  
 *Streamlit, Multi-Provider API Integration*  
 A versatile chat platform supporting hot-swappable providers including Google Gemini 2.0 Flash Thinking, Deepseek (r1 & Chat), OpenAI GPT-4o, and Anthropic Claude.
-
-**[Guitar Buddy](https://github.com/thecraigd/guitarbuddy)**  
-*JavaScript, PWA*  
-[GuitarBuddy](https://guitarbuddy.netlify.app) is a mobile-optimized progressive web application designed to help musicians with essential tools for practice, learning, and performance.
 
 ---
 
